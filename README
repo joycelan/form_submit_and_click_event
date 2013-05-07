@@ -28,9 +28,8 @@ FF--無反應
 
 5.只要submit button放置放置外面---click button皆不會trigger .submit()...
 
-6.IE8.一個網頁中存在一在一form，其中包括一個text input(非必要)，submit button放置form外面(必要條件)
-
---一進入網頁就按enter----->會triggerr第一個第一個submit button.....IE9 & FF不會...
+6.IE8一個網頁中存在一在一form，其中包括一個text input(非必要)，submit button放置form外面(必要條件)
+--一進入網頁就按enter----->會triggerr button .click().....IE9 & FF不會...
 
 
 ref:http://stackoverflow.com/questions/2185021/enter-key-triggering-button-click-but-i-dont-want-it-to
