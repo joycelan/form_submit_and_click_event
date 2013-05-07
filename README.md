@@ -1,6 +1,6 @@
 form  與  submit/button clickk事件之關係
 
-**探討form中input輸入值之後直接按enter之行為(這裡的這裡的clickk皆是指第一個type為submit之button/input)
+探討form中input輸入值之後直接按enter之行為(這裡的這裡的clickk皆是指第一個type為submit之button/input)
 1.一個網頁中存在一在一form，其中包括一個text input(必要條件)，與submit button
 IE8--trigger .submit()
 IE9--trigger .submit()和.click()
